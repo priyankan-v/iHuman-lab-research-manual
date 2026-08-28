@@ -4,9 +4,7 @@ In the world of professional Python development, setting up a robust and efficie
 
 All these topics are covered here:
 
-<p align=center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fj2tuTIcUys?si=WHXzb3oYxTsayazJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<p>
+[Watch Complete Development Setup Tutorial](https://www.youtube.com/watch?v=fj2tuTIcUys)
 
 For more detailed tutorial see each sub-section.
 
@@ -14,9 +12,7 @@ For more detailed tutorial see each sub-section.
 
 Visual Studio Code (VSCode) is a versatile, open-source code editor developed by Microsoft. It provides essential features for Python development, including debugging, linting, and integrated terminal support.
 
-<p align=center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WPqXP_kLzpo?si=-DzadlqbXyymKftK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<p>
+[Watch VSCode Setup Tutorial](https://www.youtube.com/watch?v=WPqXP_kLzpo)
 
 ## Conda Environment Management
 
@@ -24,11 +20,7 @@ Conda is a powerful package and environment management system that helps manage 
 
 Using Conda allows you to create isolated environments for different projects, preventing version conflicts between dependencies and ensuring reproducibility. This is crucial for maintaining a stable development environment across different projects and teams.
 
-Link to YouTube tutorial:
-
-<p align=center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sDCtY9Z1bqE?si=WFEu8e8lwyw6CgtU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<p>
+[Watch Conda Environment Management Tutorial](https://www.youtube.com/watch?v=sDCtY9Z1bqE)
 
 ## Ruff for code linting
 
@@ -36,11 +28,7 @@ Ruff is a fast Python linter designed to catch potential issues and enforce codi
 
 Linting with Ruff helps enforce coding standards, catch syntax errors, and improve code readability. It reduces the likelihood of bugs and ensures that the code adheres to best practices.
 
-Link to YouTube tutorial:
-
-<p align=center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bcAqceZkZRQ?si=aKjOULUYuu5MFfwF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<p>
+[Watch Ruff Code Linting Tutorial](https://www.youtube.com/watch?v=bcAqceZkZRQ)
 
 
 ## Pytest for testing
@@ -49,11 +37,7 @@ Pytest is a popular testing framework for Python that provides simple and scalab
 
 Testing is crucial for ensuring code reliability and catching bugs early. Pytest’s flexible and powerful features help you write and manage tests efficiently, contributing to a stable and maintainable codebase.
 
-Link to YouTube tutorial:
-
-<p align=center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cHYq1MRoyI0?si=WKZlFYnGe-AylL9H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<p>
+[Watch Pytest Testing Tutorial](https://www.youtube.com/watch?v=cHYq1MRoyI0)
 
 ## Pre-commit hooks
 
@@ -61,11 +45,7 @@ Pre-commit hooks are scripts that run automatically before a commit is finalized
 
 Pre-commit hooks automate code quality checks, reducing the risk of introducing errors into the codebase. They help maintain consistency and enforce standards across the development team.
 
-Link to YouTube tutorial:
-
-<p align=center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ObksvAZyWdo?si=Pe3UOslW_syEIuhq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<p>
+[Watch Pre-commit Hooks Tutorial](https://www.youtube.com/watch?v=ObksvAZyWdo)
 
 ## GitHub for version control
 
@@ -73,8 +53,4 @@ GitHub is a widely used platform for hosting and managing code repositories. It 
 
 Version control with GitHub allows for tracking changes, collaboration with other developers, and managing different versions of the project. It enhances team collaboration and code management.
 
-Link to YouTube tutorial:
-
-<p align=center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RGOj5yH7evk?si=FdRahpfg6LqGYxr6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<p>
+[Watch GitHub Version Control Tutorial](https://www.youtube.com/watch?v=RGOj5yH7evk)
